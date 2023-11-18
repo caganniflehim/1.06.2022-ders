@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\1.06.2022 ders\1.06.2022 ders\bin\Debug\1.06.2022 ders.exe.config
+C:\Users\PC\source\repos\1.06.2022 ders\1.06.2022 ders\bin\Debug\1.06.2022 ders.exe
+C:\Users\PC\source\repos\1.06.2022 ders\1.06.2022 ders\bin\Debug\1.06.2022 ders.pdb
+C:\Users\PC\source\repos\1.06.2022 ders\1.06.2022 ders\obj\Debug\1.06.2022 ders.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\1.06.2022 ders\1.06.2022 ders\obj\Debug\_1._06._2022_ders.Form1.resources
+C:\Users\PC\source\repos\1.06.2022 ders\1.06.2022 ders\obj\Debug\_1._06._2022_ders.Properties.Resources.resources
+C:\Users\PC\source\repos\1.06.2022 ders\1.06.2022 ders\obj\Debug\1.06.2022 ders.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\1.06.2022 ders\1.06.2022 ders\obj\Debug\1.06.2022 ders.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\1.06.2022 ders\1.06.2022 ders\obj\Debug\1.06.2022 ders.exe
+C:\Users\PC\source\repos\1.06.2022 ders\1.06.2022 ders\obj\Debug\1.06.2022 ders.pdb
